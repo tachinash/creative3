@@ -11,7 +11,7 @@
     <BookList :books="books" />
   </div>
   <footer class="footer">
-    <h2 id = "footer-text">Here's a link to my <a href="">Github</a>account</h2>
+    <h2 id = "footer-text">Here's a link to my <a href="https://github.com/BattousaiKenshin/creative3">Github</a>account</h2>
   </footer>
 </div>
 </template>
